@@ -139,12 +139,11 @@ If you have questions or feedback, please see the [Discussion](https://github.co
 
 ## HIP Status Key
 
-| Status        | Label                                                                        | Summary                                                                                               |
-| :------------ | :--------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------- |
-| Draft         | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img>           | HIP is in process of being written; author is not yet soliciting feedback from the community at large |
-| In Discussion | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img> | HIP is under active consideration by the community                                                    |
-| Voting Open   | <img src="https://img.shields.io/badge/Status-Voting_Open-cyan"></img>       | HIP is currently being voted on                                                                       |
-| Approved      | <img src="https://img.shields.io/badge/Status-Approved-green"></img>         | HIP has been approved by rough consensus, and pending development and testing                         |
-| Deployed      | <img src="https://img.shields.io/badge/Status-Deployed-blue"></img>          | Code to implement HIP has been merged and deployed to the network                                     |
-| Rejected      | <img src="https://img.shields.io/badge/Status-Rejected-red"></img>           | HIP did not pass voting                                                                               |
-| Closed        | <img src="https://img.shields.io/badge/Status-Closed-lightgrey"></img>       | HIP abandoned, rendered obsolete by other changes, or otherwise withdrawn by the author               |
+| Status        | Label                                                                        | Summary                                                                                                                  |
+| :------------ | :--------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------- |
+| In Discussion | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img> | HIP is under active consideration by the community and has a discussion channel on [Discord.](https://discord.gg/helium) |
+| Voting Open   | <img src="https://img.shields.io/badge/Status-Voting_Open-cyan"></img>       | HIP is currently being voted on at [heliumvote.com.](https://heliumvote.com/)                                            |
+| Closed        | <img src="https://img.shields.io/badge/Status-Closed-lightgrey"></img>       | HIP abandoned, rendered obsolete by other changes, or otherwise withdrawn by the author or governance.                   |
+| Rejected      | <img src="https://img.shields.io/badge/Status-Rejected-red"></img>           | HIP did not meet the passing vote requirements.                                                                          |
+| Approved      | <img src="https://img.shields.io/badge/Status-Approved-green"></img>         | HIP has been approved by consensus, and is pending development, testing or deployment.                                   |
+| Deployed      | <img src="https://img.shields.io/badge/Status-Deployed-blue"></img>          | Code to implement HIP has been deployed, and activated on the network, or the implementation has been performed.         |
